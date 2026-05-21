@@ -1,3 +1,5 @@
+Paper: AdaptCMVC: Robust Adaption to Incremental Views in Continual Multi-view Clustering ([Link](https://api.nva.unit.no/publication/0199940ed7cd-6aac2654-f23c-4a55-b8cf-d58b3ff1f316))
+
 # AdaptCMVC
 
 This repository provides the implementations of AdaptCMVC, presented in the paper:
